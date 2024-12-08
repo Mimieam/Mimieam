@@ -6,8 +6,7 @@
  </h3>
 
 ## 
-<div style="background:url('https://github.com/user-attachments/assets/e74be22a-a186-4592-ac39-f4ec9a235aa5')">
-  
+
 - 🔭 Currently working on **LazyPaste**
   
 - 🌱 Learning **Go, Rust, and Nzema**
@@ -18,7 +17,7 @@
   
 - ⚡ Fun fact, I do not like chocolate 🤷🏽‍♂️ & I'm convinced that good code is code that can easily be replaced
 
-</div>
+##
 
 ![](https://komarev.com/ghpvc/?username=mimieam&style=pixel) 
 

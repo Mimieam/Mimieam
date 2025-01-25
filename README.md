@@ -1,7 +1,4 @@
 
-![github-header-image (21)](https://github.com/user-attachments/assets/d95378be-b110-4088-8bfb-8439163fe939)
-
-
 <h3 align="center"> A curious software engineer by day, VanillaJS enthusiast by night, and lifelong learner with a <i>slight</i> tab obssession 🤷🏽‍♂️
  </h3>
 
@@ -30,6 +27,12 @@
 
 
 <!--
+
+
+![github-header-image (21)](https://github.com/user-attachments/assets/d95378be-b110-4088-8bfb-8439163fe939)
+
+
+
 ![github-header-image (3)](https://github.com/user-attachments/assets/0e807a6c-b32c-4666-9458-560d611bda33)
 <img src="https://github.com/user-attachments/assets/e74be22a-a186-4592-ac39-f4ec9a235aa5" alt="banner - software developer, artist, designer">
 

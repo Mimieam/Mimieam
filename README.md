@@ -1,5 +1,5 @@
 
-<h3 align="center"> A curious software engineer by day, VanillaJS enthusiast by night, and lifelong learner with a <i>slight</i> tab obssession 🤷🏽‍♂️
+<h3 align="center"> A curious software engineer by day, VanillaJS enthusiast by night, and lifelong learner with a <i>slight</i> tab obsession 🤷🏽‍♂️
  </h3>
 
 ## 
